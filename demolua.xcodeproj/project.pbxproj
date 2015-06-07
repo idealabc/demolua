@@ -614,6 +614,7 @@
 				6A6EE0F31B2401F800A2D1DF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		6A6EE0F41B2401F800A2D1DF /* Build configuration list for PBXNativeTarget "demoluaTests" */ = {
 			isa = XCConfigurationList;
@@ -622,6 +623,7 @@
 				6A6EE0F61B2401F800A2D1DF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
